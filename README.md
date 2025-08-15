@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rain766
-- 👀 I’m interested in coding and data analytics.
+- 👀 I’m interested in coding and backend integration.
 - 🌱 I’m currently learning data structures and algorithms by practicing leecode.
 - 💞️ I’m looking to collaborate on cloding practicing with someone.
 - 📫 How to reach me :
